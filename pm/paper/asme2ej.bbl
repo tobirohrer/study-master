@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{goodfellow2014generative}
+Goodfellow, I.~J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D.,
+  Ozair, S., Courville, A., and Bengio, Y., 2014.
+\newblock Generative adversarial networks.
+
+\bibitem{radford2015unsupervised}
+Radford, A., Metz, L., and Chintala, S., 2015.
+\newblock Unsupervised representation learning with deep convolutional
+  generative adversarial networks.
+
+\bibitem{liu2015faceattributes}
+Liu, Z., Luo, P., Wang, X., and Tang, X., 2015.
+\newblock ``Deep learning face attributes in the wild''.
+\newblock In Proceedings of International Conference on Computer Vision (ICCV).
+
+\bibitem{tensorflow2015-whitepaper}
+Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., and Others, 2015.
+\newblock {TensorFlow}: Large-scale machine learning on heterogeneous systems.
+\newblock Software available from tensorflow.org.
+
+\bibitem{kingma2014method}
+Kingma, D.~P., and Ba, J., 2014.
+\newblock Adam: A method for stochastic optimization.
+\newblock cite arxiv:1412.6980Comment: Published as a conference paper at the
+  3rd International Conference for Learning Representations, San Diego, 2015.
+
+\end{thebibliography}

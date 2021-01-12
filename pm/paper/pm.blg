@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: pm.aux
+The style file: asmems4.bst
+Database file #1: pm.bib
+Warning--empty year in stacey_img
+Warning--empty booktitle in Stacey2011StrategicMA
+Warning--empty year in agile_pm
+Warning--empty publisher in disc
+Warning--empty year in disg_charakteristika
+You've used 6 entries,
+            1984 wiz_defined-function locations,
+            508 strings with 4515 characters,
+and the built_in function-call counts, 1037 in all, are:
+= -- 55
+> -- 63
+< -- 0
++ -- 25
+- -- 19
+* -- 53
+:= -- 148
+add.period$ -- 15
+call.type$ -- 6
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 50
+empty$ -- 135
+format.name$ -- 19
+if$ -- 238
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 3
+newline$ -- 30
+num.names$ -- 3
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 16
+stack$ -- 0
+substring$ -- 0
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 3
+width$ -- 7
+write$ -- 53
+(There were 5 warnings)
