@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  15 JAN 2021 13:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  15 JAN 2021 18:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,7 +793,7 @@ Underfull \hbox (badness 1454) in paragraph at lines 87--88
 
 
 ]
-<./images/stacey.png, id=92, 348.30125pt x 292.09125pt>
+<./images/stacey.png, id=100, 348.30125pt x 292.09125pt>
 File: ./images/stacey.png Graphic file (type png)
 <use ./images/stacey.png>
 Package pdftex.def Info: ./images/stacey.png  used on input line 95.
@@ -864,62 +864,68 @@ Underfull \hbox (badness 2894) in paragraph at lines 112--114
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
 []\OT1/ptm/b/n/10 Auswirkung ver-schiedene Pro-jek-t-man-age-ment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-[]\OT1/ptm/m/n/10 Auss den oben beschriebe-nen Charak-tereigen-
+Underfull \hbox (badness 1859) in paragraph at lines 117--119
+[]\OT1/ptm/m/n/10 Eines der Ziele jeder Pro-jek-t-man-age-ment Strate-gie
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-\OT1/ptm/m/n/10 schaften der ver-schiede-nen Pers[]onlichkeitstypen nach
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-\OT1/ptm/m/n/10 wie ver-schiedene Pro-jek-t-man-age-ment Meth-o-den oder
+Underfull \hbox (badness 1142) in paragraph at lines 121--122
+\OT1/ptm/m/n/10 i-nante bei der Bew[]altigung seiner Auf-gaben gerne den
  []
 
 [2 <./images/stacey.png>]
-Underfull \hbox (badness 2680) in paragraph at lines 141--142
-[]\OT1/ptm/m/n/10 Eine weit-ere Schw[]ache des Dom-i-nan-ten ist, dass
+Underfull \hbox (badness 4254) in paragraph at lines 126--127
+\OT1/ptm/m/n/10 Verbesserung in Kan-ban kann zus[]atzlich als Her-aus-
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 141--142
-\OT1/ptm/m/n/10 er gerne Au-torit[]aten []uberschreitet. Da-her ist es zu
+Underfull \hbox (badness 5091) in paragraph at lines 127--128
+ []\OT1/ptm/b/n/10 Scrum[] \OT1/ptm/m/n/10 kann sich mo-tivierend auswirken. Ei
+n
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--160
+Underfull \hbox (badness 1824) in paragraph at lines 131--132
+[]\OT1/ptm/m/n/10 Bei einer Or-gan-i-sa-tion nach dem Wasser-fallmod-ell
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 136--137
+\OT1/ptm/m/n/10 tiviert. Wenn Sie dabei noch Lob und An-erken-nung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
  []\OT1/ptm/b/n/10 St[]arken und Schw[]achen[] \OT1/ptm/m/n/10 Durch ihre
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 178--179
+Underfull \hbox (badness 1264) in paragraph at lines 164--165
 \OT1/ptm/m/n/10 em-patis-chen und fre-undlichen Eigen-schaften, sowie der
  []
 
 [3]
-Underfull \hbox (badness 1688) in paragraph at lines 182--183
+Underfull \hbox (badness 1688) in paragraph at lines 168--169
 []\OT1/ptm/m/n/10 St[]arken: Zu-verl[]assig. Geduldig, an-pas-sungsf[]ahig.
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 199--200
+Underfull \hbox (badness 1173) in paragraph at lines 185--186
 \OT1/ptm/m/n/10 beitsweise auswirken. Beispiel-sweise bei zu lang und
  []
 
 
-Underfull \hbox (badness 6252) in paragraph at lines 208--210
+Underfull \hbox (badness 6252) in paragraph at lines 194--196
 []\OT1/ptm/m/n/10 Eine Weit-ere Schw[]ache ist die Kon-flik-tscheue..?
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 213--214
+Underfull \hbox (badness 1990) in paragraph at lines 199--200
 []\OT1/ptm/m/n/10 Bei einem Team also mit []uberwiegend X und X
  []
 
@@ -966,21 +972,21 @@ Underfull \hbox (badness 1297) in paragraph at lines 42--45
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
  (./pm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
 Package rerunfilecheck Info: File `pm.out' has not changed.
-(rerunfilecheck)             Checksum: 40274A40D097BADE7C5F69D2CF40195C;1129.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
+(rerunfilecheck)             Checksum: 99D0DAC18E2766AB0B23F95C0A8F575C;1284.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 215.
  ) 
 Here is how much of TeX's memory you used:
- 20595 strings out of 492616
- 385160 string characters out of 6129480
- 431137 words of memory out of 5000000
- 24332 multiletter control sequences out of 15000+600000
+ 20598 strings out of 492616
+ 385229 string characters out of 6129480
+ 431140 words of memory out of 5000000
+ 24334 multiletter control sequences out of 15000+600000
  568325 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,11n,63p,1271b,719s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -991,10 +997,10 @@ mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on pm.pdf (4 pages, 104472 bytes).
+Output written on pm.pdf (4 pages, 104877 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 44 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 150 words of extra memory for PDF output out of 10000 (max. 10000000)
 
