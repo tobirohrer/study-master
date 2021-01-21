@@ -6,8 +6,8 @@
 	Personenzentrisches Projektmanagement\\
 	\large 
 	- \\
-	Einfluss verschiedener Persönlichkeiten auf \\ 
-	das Projektmanagement von Data Science Projekten}
+	Die Auswirkungen von Projektmanagement in Data Science Projekten\\ 
+   auf verschiedene Persönlichkeiten nach dem DISG-Modell}
 
 \author{Tobias Rohrer
     \affiliation{
@@ -61,51 +61,40 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Einleitung}
-Methoden und Werkzeuge zum Managen von Projekten werden meist anhand des Projektumfangs, Komplexität oder der Klarheit von Anforderungen ausgewählt. Außer acht gelassen wird dabei jedoch, dass sich ein Projektteam aus verschiedenen Persönlichkeiten mit unterschiedlichen Stärken und Schwächen zusammen setzt. Einer der Punkte im Agilen Manifesto lautet sogar "Individuals and interactions over processes and tools" \cite{beck2001agile}. Im Folgenden wird Diskutiert, wie sich verschiedene Projektmanagement-Werkzeuge und Methoden auf die Stärken und Schwächen, sowie auf die Motivation der Persönlichkeiten nach dem DISC-Modell auswirken.
-
-Dazu wird in Abschnitt \ref{sec:1} zunächst das Projektmanagement in Data Science Projekten via Scrum, Kanban und dem Wasserfallmodell, sowie die darin verwendeten Projektmanagement-Werkzeuge gegenüber gestellt.
-
-In Abschnitt \ref{sec:2} werden anschließend die einzelnen Persönlichkeitskategorien nach dem DISC-Modell beschrieben. Außerdem wird diskutiert, wie die Projektmanagement-Methoden und Werkzeuge aus Abschnitt \ref{sec:1} unter Berücksichtigung der Stärken und Schwächen der am Team teilnehmenden Persönlichkeiten eingesetzt werden sollten.
+Methoden und Werkzeuge zum Managen von Projekten werden meist anhand des Projektumfangs, Komplexität oder der Klarheit von Anforderungen ausgewählt. Außer acht gelassen wird dabei jedoch, dass sich ein Projektteam aus verschiedenen Persönlichkeiten mit unterschiedlichen Stärken und Schwächen zusammen setzt. Einer der Punkte im Agilen Manifesto lautet sogar "Individuals and interactions over processes and tools" \cite{beck2001agile}. Im vorliegenden Bericht wird diskutiert, wie sich verschiedene Projektmanagement-Werkzeuge und Methoden auf die Stärken, Schwächen und die Motivation der Persönlichkeiten nach dem DISC-Modell auswirken. Dazu wird in Abschnitt \ref{sec:1} zunächst kurz auf das Projektmanagement in Data Science Projekten eingegangen und drei geläufige Methoden gegenüber gestellt. In Abschnitt \ref{sec:2} werden anschließend die Persönlichkeitskategorien nach dem DISC-Modell beschrieben. Außerdem wird diskutiert, wie sich die Projektmanagement-Methoden und Werkzeuge aus Abschnitt \ref{sec:1} auf die Stärken, Schwächen und die Motivation der der am Team teilnehmenden Persönlichkeiten auswirkt. Abgeschlossen wird der Bericht mit einem Fazit in Kapitel \ref{sec:3}.
 
 
 \section{Projektmanagement in Data Science Projekten}\label{sec:1}
-Es gibt unzählige Methoden, um Projekte zu verwalten. Im Folgenden werden 3 der meist verbreitetsten kurz beschrieben\footnote{Ausführlichere Beschreibungen der Methoden in den Quellen.}. Anschließend werden die Besonderheiten von Data Science Projekten erläutert und die drei zuvor beschriebenen Methoden im Bezug auf diese Besonderheiten gegenüber gestellt.
+Es gibt unzählige Methoden, um Projekte zu verwalten. Im Folgenden werden 3 der meist verbreitetsten kurz beschrieben\footnote{Ausführlichere Beschreibungen der Methoden in den Quellen.}. Anschließend werden die Besonderheiten von Data Science Projekten erläutert und die drei zuvor beschriebenen Methoden im Bezug auf diese Besonderheiten kurz gegenüber gestellt.
 
 \subsection{Wasserfallmodell}
-Das Wasserfallmodell lässt sich am besten durch seine sequenziell ablaufenden Phasen charakterisieren. Eine neue Phase wird erst nach erfolgreichem Abschluss der vorgeschalteten Phase gestartet. Zwar bietet das Wasserfallmodell eine gute Übersicht über die Gesamtplanung des Projekts, doch ist es relativ unflexibel gegenüber Veränderungen. \cite{Wasserfall}
+Das Wasserfallmodell lässt sich am besten durch seine sequenziell ablaufenden Phasen charakterisieren. Eine neue Phase wird erst nach erfolgreichem Abschluss der vorgeschalteten Phase gestartet. Zwar bietet das Wasserfallmodell eine gute Übersicht über die Gesamtplanung des Projekts, doch ist es relativ unflexibel gegenüber Veränderungen \cite{Wasserfall}.
 
 \subsection{Agile}
-Scrum und Kanan gehören beide zur Gruppe der Agilen Methoden und teilen demnach deren Grundprinzipien. Diese sind im Agile Manifesto gestgehalgen und sind:
-- Shortest Path. Reduce Wait times...
-\cite{beck2001agile}
-
+Die Grundideen, sowie Prinzipien des Agilen Projektmanagements ist in dem Agile Manifesto  \cite{beck2001agile} festgehalten. Scrum und Kanban gehören beide zur Gruppe der Agilen Methoden und teilen demnach die Agilen Grundprinzipien.
 
 \subparagraph{Scrum}
-Die Grundiee von Scrum ist die Einteilung des Projektes in Inkremente. Jedes Inkrement wird innerhalb eines sogenannten Sprints bearbeitet und anschließend ausgeliefert. Somit kann kontinuierlich Rückmeldung des Kunden in den Entwicklungsprozess einfließen. In einem Team, das nach Scrum arbeitet gibt es feste Rollen wie den Product Owner, den Scrum Master sowie das Projekt Team. Dem Product Owner obliegt üblicherweise die inhaltliche und dem Scrum Master die organisatorische Verantwortung.
+Die Grundidee von Scrum ist die Einteilung des Projektes in Inkremente. Jedes Inkrement wird innerhalb eines Sprints fertig gestellt und anschließend an die Kunden ausgeliefert. Somit kann kontinuierlich Rückmeldung des Kunden in den Entwicklungsprozess einfließen. In einem Team, das nach Scrum arbeitet gibt es feste Rollen wie den Product Owner, den Scrum Master sowie das Projekt Team. Dem Product Owner obliegt üblicherweise die inhaltliche und dem Scrum Master die organisatorische Verantwortung \cite{scrum}.
 
 \subparagraph{Kanban}
-Angefangene Aufgaben schnellst möglich fertig zu stellen ist eines der zentralen Punkte von Kanban. Um dies zu unterstützten wird üblicherweise ein work in progress (WiP) limit definiert, um sich auf angefangene Aufgaben zu konzentrieren und deren Fertigstellung zu beschleunigen. Dieser Prozess wird auf einem gemeinsamen Kanban Board visualisiert. Hierauf werden die aktuellen Aufgaben, sowie deren Status dargestellt. Ein weiteres Ziel die kontinuierliche Effizienzsteigerung dieses Prozesses.\cite{kanban} Aktualisierungen werden an den Kunden ausgeliefert, sobald Sie fertig sind. In Kanban gibt es keine festen Teamrollen. Üblicherweise wird der Kanban Prozess durch die sogenannte Lead und Cycle Zeit überwacht. Diese misst die Zeit, die eine Aufgabe von der Aufnahme bis zur fertigstellung benötigt. Der Prozess, mit dem das Projektmanagement nach Kanban aufgebaut wird kann sich jederzeit ändern. Im Vergleich zu Scrum kann man Kanban als eher kontinuierliche Methode sehen, wobei Scrum auf feste Inkremente mit definiertem Start und Ende (Sprints) arbeitet.
+Angefangene Aufgaben schnellst möglich fertig zu stellen ist eines der zentralen Punkte von Kanban. Um sich auf angefangene Aufgaben zu konzentrieren und deren Fertigstellung zu beschleunigen, wird üblicherweise eine Work in Progress (WiP) Grenze definiert. Alle Aufgaben, sowie deren Status werden auf einem gemeinsamen Kanban Board visualisiert. Aktualisierungen werden an den Kunden ausgeliefert, sobald Sie fertig sind. Im Vergleich zu Scrum kann Kanban als eher kontinuierliche Methode angesehen werden, wobei Scrum mit Sprints arbeitet. Außerdem gibt es keine festgelegten Rollen \cite{kanban}.
 
 \subsection{Besonderheiten von Data Science Projekten}
-Bei Data Science Projekten ist zu Projektstart oft nicht genau abzuschätzen, ob und in wie fern die festgelegten Ziele mit den verfügbaren Daten erreicht werden können. Dies liegt unter anderem daran, dass die Qualität der zu verarbeitenden Daten fehl eingeschätzt wird. Diese wird in der Praxis eher über statt unterschätzt. Unter Anderem findet deshalb die Auswahl der einzusetzenden Technologien oft erst im laufe des Projektes statt \cite{agile_pm}. Darüber Hinaus können sich die Anforderungen im Laufe des Projektes ändern. Beispielsweise werden durch die Verarbeitung der Daten neue Möglichkeiten vom Entwicklungsteam aber auch von den "Kunden" überhaupt erst erkannt. 
+Bei Data Science Projekten ist zu Projektstart oft nicht genau abzuschätzen, ob und in wie fern die festgelegten Ziele mit den verfügbaren Daten erreicht werden können. Dies liegt unter anderem daran, dass die Qualität der zu verarbeitenden Daten fehleingeschätzt wird. Diese wird in der Praxis eher über- statt unterschätzt. Unter Anderem findet deshalb die Auswahl der einzusetzenden Technologien oft erst im laufe des Projektes statt \cite{agile_pm}. Darüber Hinaus können sich die Anforderungen im Laufe des Projektes ändern. Beispielsweise werden durch die Verarbeitung der Daten neue Möglichkeiten vom Entwicklungsteam aber auch von den Kunden überhaupt erst erkannt. 
 
 \subsection{Die Auswahl einer passenden Methode}
 
 \begin{figure}
-	\includegraphics[scale=0.65	]{stacey.png}
+	\includegraphics[scale=0.55]{stacey.png}
 	\caption[center]{Die Stacey Matrix angelehnt an \cite{stacey_img}}
 	\label{fig:stacey}
 \end{figure}
 
-Eine Herausforderung zu beginn vieler Projekte stellt die Wahl einer passenden Projektmanagement Strategie da. Hierbei kann die Stacey Matrix \cite{Stacey2011StrategicMA} unterstützen, indem Projekte in Einfach, Kompliziert, Komplex oder Chaotisch klassifiziert werden (siehe Abbildung \ref{fig:stacey}). Die Klassifizierung wird anhand der Unklarheit und Komplexität der eingesetzten Technologien (Wie wird das Projekt umgesetzt), sowie der Klarheit über die Anforderungen an das Projekt (Was wird in dem Projekt umgesetzt) vorgenommen. Bei einer Klassifizierung im "oberen" komplizierten Bereich bis hin zum Chaotischen Bereich sollten Methoden aus dem Agilen Umfeld, in unserem Fall Kanban oder Scrum eingesetzt werden. Bei einer Klassifizierung als Einfach oder im unteren Komplizierten Bereich kann, muss aber nicht, auch das Wasserfallmodell verwendet werden. Durch die oben beschriebenen Unklarheiten bezüglich der Technologien sowie der Ziele sind die meisten Data Science Projekte in der Stacey Matrix eher ab der komplizierten Stufe einzuordnen. Das Wasserfallmodell ist für die meisten Data Science Projekte wegen der Inflexibilität gegenüber unvorhersehbaren kurzfristigen Abweichungen und Änderungen  eher ungeeignet.
 
--> Unternehmensstruktur !!
+Beurteilt man die oben beschriebenen Besonderheiten von Data Science Projekte anhand der Stacey Matrix \cite{Stacey2011StrategicMA}, so finden sich die meisten Projekte mindestens in einem komplizierten, oder eher komplexen Umfeld wieder (siehe Abbildung \ref{fig:stacey}).Um den Unklarheiten in den Anforderungen und der eingesetzten Technologien entgegen zu wirken ist daher der Einsatz einer Agilen Projektmanagement Methode empfehlenswert. Trotzdem hat auch das Wasserfallmodell für Data Science Projekte seinen Anwendungszweck. Beispielsweise könnten starre Unternehmensstrukturen keinen Rahmen für eine Agile Arbeitsweise bieten. Auch könnten Stakeholder eine genaue Planung und Einhaltung des Projektablaufs fordern. 
 
 \section{DISG Projektmanagement}\label{sec:2}
-Ein Projektteam ist dann effizient, wenn die Teilnehmenden motiviert sind und ihre Stärken voll einsetzen können. Es sollte dabei nicht überraschen, dass Personen unterschiedliche Stärken und Schwächen besitzen und sich durch verschiedene Dinge motivieren lassen. Im Folgenden werden die Persönlichkeitstypen nach dem DISG-Modell beschrieben. Des Weiteren wird dargelegt, wie sich die Projektmanagement Strategien aus Abschnitt \ref{sec:1} auf die Stärken, Schwächen und die Motivation der DISG-Persönlichkeitstypen auswirkt. 
-
-\subsection{DISG-Modell}
-Anhand des DISG-Modells \cite{disc} können Persönlichkeiten in die Bereiche Dominant(D), Initiativ(I), Stetig(S) und Gewissenhaft(G). Eine Persönlichkeit setzt sich meist aus unterschiedlichen Bereichen verschieden stark ausgeprägt zusammen. Mit Hilfe eines DISG-Persönlichkeitstests kann ein Persönlichkeitsprofil erstellt werden. Die verschiedenen Persönlichkeitstypen nach dem DISG-Modell haben typische Stärken und Schwächen, sowie Motivationsfaktoren. 
+Die Stärken, Schwächen und Motivationsfaktoren der Teammitglieder spielen bei der Wahl einer passenden Projektmanagement Methode üblicherweise keine Rolle. Nach dem  DISG-Modell \cite{disc} setzen sich Persönlichkeiten verschieden stark aus den vier Grundtypen Dominant(D), Initiativ(I), Stetig(S) und Gewissenhaft(G) zusammen. Die verschiedenen Grundtypen nach dem DISG-Modell haben typische Charaktereigenschaften, Stärken, Schwächen, sowie Motivationsfaktoren. Das ein Projektteam besonders effizient ist, wenn die Teilnehmenden motiviert sind und ihre Stärken voll einsetzen können, sollte nicht überraschen. Im Folgenden werden daher die vier Persönlichkeitstypen nach dem DISG-Modell kurz beschrieben und dargelegt, wie sich die Projektmanagement Strategien aus Abschnitt \ref{sec:1} auf die Stärken, Schwächen und die Motivation dieser auswirkt. 
 
 \subsection{Der Dominante}
 Der Dominante  wird vor Allem durch Erfolge und Herausforderungen motiviert. Außerdem genießt der Dominante bei der Bewältigung seiner Aufgaben gerne den Freiraum um Risiken einzugehen und um Entscheidungen zu treffen oder zumindest auf diese einzuwirken. Seine größte Stärke ist die zielorientierte Arbeitsweise. Eine seiner Schwächen, die sich jedoch auch positiv auswirken kann, ist die Ungeduld. Außerdem kann seine direkte Art Konflikte im Team auslösen. Es besteht auch die Gefahr, dass der Dominante seine Autorität überschreitet. Zuletzt laufen dominante Persönlichkeiten die Gefahr sich bei der Aufgabenplanung zu überschätzen.
@@ -120,8 +109,8 @@ Eine neue Software Version an Kunden auszuliefern kann als Teilerfolg eines Team
 \subsubsection{Im Wasserfallmodell}
 Durch die präzise sequenzielle Planung des Projektes sowie einer festen Projektstruktur, wird zwar der Gefahr entgegengewirkt, dass der Dominante seine Autorität überschreitet und somit Konflikte im Team entstehen. Doch wird durch diese präzise sequenzielle Planung auch die Software erst relativ spät im Entwicklungsprozess an den Kunden ausgeliefert. Dies könnte sich wegen der ungeduldigen Eigenschaft, sowie den fehlenden Teilerfolgen demotivierend auswirken. Des Weiteren würde die sequenzielle starre Planung weniger Freiraum für Risikobehaftete Ideen bringen. Dazu besteht die Gefahr, dass sich der Dominante bei der Anfangsplanung überschätzt und es dadurch zu Fehleinschätzungen im Projektplan kommt.
 
-\subsubsection{Fazit}
-Im Agilen Umfeld fühlt sich der Dominante wegen der Inkrementellen Arbeitsweise und der damit verbundenen Erfolgserlebnisse wohl. Bei einer Organisation nach Scrum könnte bei einer starken Ausprägung der autoritären Eigenschaft besser als durch Kanban entgegen gewirkt werden. Der Dominante würde sich im Wasserfallmodell, wenn er keine Leitende oder Planende Funktion inne hat eher unwohl fühlen.
+\subsubsection{Folgerung}
+Im Agilen Umfeld fühlen sich Personen mit einer stark ausgeprägten dominanten Eigenschaft unter Anderem wegen der Inkrementellen Arbeitsweise und der damit verbundenen Erfolgserlebnisse wohl. Bei einer Organisation nach Scrum könnte bei einer starken Ausprägung der autoritären Eigenschaft besser als durch Kanban entgegen gewirkt werden. Der Dominante würde sich im Wasserfallmodell, wenn er keine Leitende oder Planende Funktion inne hat eher unwohl fühlen.
 
 \subsection{Die Initiative}
 Die Initiative ist in einer Umgebung, in der sie Sichtbarkeit und Popularität im Team aber auch darüber hinaus erfährt, motiviert. Gerne hat sie Raum, um ihre Ideen einzubringen. Wenn sie dabei für ihre Ideen positives Feedback, Anerkennung oder Unterstützung Anderer erfährt, wirkt sich das besonders motivierend aus. Zu den Stärken der Initiativen gehört Kreativität und Impulsivität, was sie zu einer guten Ideengeberin macht. Außerdem kann sie mit ihrer Überzeugungskraft und Optimismus motivierend auf das ganze Team wirken, wodurch sie oft an Popularität in der Gruppe gewinnt. Diese kann sie nutzen um als Schlichterin in der Gruppe zu fungieren. Ist der Hang zur Impulsivität jedoch stark ausgeprägt, können aber auch gerne Details bei der Planung oder Durchführung von Aufgaben übersehen werden. Außerdem kann die Motivation für bereits angefangene Aufgaben verloren gehen, woran die Qualität leiden kann.
@@ -136,7 +125,7 @@ Das Projekt um motivierte Personen aufzubauen und diese zu unterstützen ist ein
 \subsubsection{Im Wasserfallmodell}
 Ein klar definierter Projektplan könnte der Initiativen den Rahmen geben um sich besser auf die bevorstehenden Aufgaben zu fokussieren. Jedoch hat sie nicht den Freiraum, um ihre Ideen auch später im Projektverlauf unterzubringen. Durch die klarere Trennung zwischen Entwicklungsteam und Managern hat die Initiative außerdem eine kleinere Audienz, um mit ihren Ideen zu glänzen, was sich motivierend ausüben würde.
 
-\subsection{Fazit}
+\subsection{Folgerung}
 Zusammenfassend lässt sich sagen, dass die Initiative sich in einem Agilen Umfeld wohl effizienter einsetzen lässt. Bei Kanban sollte darauf geachtet werden, dass die Initiative durch ihre Impulsivität nicht Chaos auslöst. In Scrum sollte darauf geachtet werden, dass die Initiative auch während eines geplanten Sprints den Raum hat um ihre Ideen einzubringen und Feedback dafür zu bekommen. Das Wasserfallmodell würde sich vor Allem wegen dem fest definierten Projektplan demotivierend auswirken. 
 
 
@@ -153,31 +142,35 @@ In Agilen Projekten werden Personen und zwischenmenschliche Interaktionen über 
 \subsubsection{Wasserfallmodell}
 Die Planungssicherheit würde dem Stetigen die Sicherheit geben, um sich wohl zu fühlen. 
 
-\subsubsection{Fazit}
+\subsubsection{Folgerung}
 Im Gegensatz zum Dominanten und zur Initiativen würde sich der Stetige auch im Wasserfallmodell wohl fühlen. Im Agilen sollte darauf geachtet werden, dass Änderungen am Prozess und an der Arbeitsweise transparent und kontinuierlich erfolgt. Scrum könnte durch die Sprints und festen Rollen mehr Sicherheit als Kanban geben. 
  
 \subsection{Die Gewissenhafte}
 Die Gewissenhafte lässt sich vor Allem durch einen hohen Qualitätsstandard bei der Durchführung von Aufgaben motivieren. Zu den größten Stärken der Gewissenhaften gehört die Gründlichkeit und Ausdauer bei der Bearbeitung von Aufgaben. Auch bei den Aufgaben Anderer testet die Gewissenhafte gerne und bringt Verbesserungsvorschläge ein. Ist ihr Qualitätsbewusstsein jedoch zu stark ausgeprägt kann dies auch ein Nachteil sein. Dann "verkünstelt" sich die Gewissenhafte gerne.
 
 \subsubsection{Im Agilen}
-Das Prinzip der frühen und kontinuierlichen Auslieferung von Software kommt dem Gewissenhaften nicht so ganz entgegen. Das Prinzip der technischen Exzellenz kommt ihm entgegen. 
+Das agile Prinzip, nachdem durchgängig auf technische Exzellenz und gutes Design geachtet werden soll kommt der Gewissenhaften entgegen. Frühes und kontinuierliches Feedback des Kunden ist zentral im Agilen Umfeld und wird durch eine frühe und kontinuierliche Auslieferung von Software ermöglicht. Durch diese kann es jedoch passieren, dass auch Aktualisierungen an die Kunden ausgeliefert werden, die noch nicht vollkommen perfekt und vollständig sind.  Diese Tatsache könnte sich frustrierend und demotivierend auf die Gewissenhafte auswirken.
+
 \subparagraph{Kanban}
-In Scurm beispielsweise gibt es eine Klare Struktur wie Aufgaben mit User Stories festgehalten werden usw. ...?
+Das Konzept, dass angefangene Aufgaben möglichst schnell abgeschlossen werden sollen könnte dem perfektionistischen Hang der Gewissenhaften entgegen wirken, aber auch demotivierend auf sie wirken.
+
 \subparagraph{Scrum}
-Beispielsweise bei zu lang und ausführlich gehaltenen nicht faktenbasierten Diskussionen und Meetings (arbeitet auch gerne mal alleine!). Dabei ist vor Allem bei den in Scrum üblichen Meetings zu achten. Festes Ende der Aufgaben: Entgegenwirken würde hierbei beispielsweise die festgelegte Dauer eines Sprints in Scrum
+Scrum gibt dem Gewissenhaften durch die Sprints in den Rahmen sich für eine bestimmte Zeit auf seine Aufgaben zu fokusieren. Des weiteren würde ein festes Sprintende ein Enddatum für eine Aufgabe darstellen. Die festgelegten Scrum Events könnten aber in den Augen des Gewissenhaften als zu viel soziale Interaktion demotivierend wirken.
 
 \subsection{Im Wasserfallmodell}
-Aber auch die Due Dates in Wasserfallmodellen sind hartes ende vong perfektionismus her.. Des weiteren ist die Motivation der Gewissenhaften davon abhängig, in wie weit die Organisation des Projektes sowie Entscheidungen logisch, nachvollziehbar und Faktenbasiert stattfinden. Es kann sich demotivierend auswirken, wenn wichtige Entscheidungen "aus dem Bauch heraus" getroffen werden. In Wasserfallmodellen werden die Aufgaben und der Prozess oft sehr Früh und daher nicht der Realität entsprechend geplant. 
+Nach deinem festen Plan zu arbeiten würde während der Implementierung zu weniger Abstimmung und sozialer Interaktion führen, was dem Gewissenhaften den Freiraum gibt, sich auf seine Aufgaben zu konzentrieren. Da die Planung im Wasserfallmodell jedoch am Projektanfang stattfindet, werden oft unvorhersehbare Einzelheiten übersehen und es kommt zu Verzögerungen. Dadurch kann es passieren, dass der Gewissenhafte bei der Bearbeitung seiner Aufgaben unter Zeitdruck gerät und deshalb nicht die Aufgaben nicht seinem Qualitätsstandard entsprechend fertigstellen kann.
+
+\subsection{Folgerung}
+Im Agilen Umfeld sollte dem Gewissenhaften der Wert der frühen und kontinuierlichen Auslieferung von Aktualisierungen und des dadurch entstehenden Feedbacks klar gemacht werden. Das Wasserfallmodell würde ihm zwar den Freiraum geben, führt aber bei einer ungenauen Planung zu Zeitdruck, unter dem der Gewissenhafte seinem Qualitätsstandard nicht gerecht werden kann.
 
 \cite{disc_pm}
-\subsection{Teamzusammensetzung}
-Bei einem Team also mit überwiegend X und X blablabla.
+\section{Fazit}\label{sec:3}
 
-\section{Beispiele}
-Wenn noch Platz ist, könnten hier Beispiele aus der Praxis oder mit fiktiven Personas beschrieben werden.
+Wie oben dargelegt, fühlen passen verschiedene DISG-Grundtypen zu unterschiedlichen Projektmanagement-Methoden und Werkzeugen. Es ist daher empfehlenswert sich vor der Projektplanung Gedanken darüber zu machen, um die Teammitglieder möglichst effizient einsetzen zu können. Außerdem können durch solche Überlegungen Konflikte im Team vorgebeugt werden. 
 
-\section{Fazit}
-Hier ein Fazit.
+In der Praxis kommt selten eine reine Form der drei beschriebenen Methodiken zum Projektmanagement zum Einsatz. Auch bei Mischformen  können die Motivationsfaktoren, Stärken und Schwächen der beteiligen wie oben dargelegt berücksichtigt werden, um ein effizientes Team aufzubauen.
+
+Klar sollte sein, dass in echten Personen immer mehrere Persönlichkeitstypen vorhanden und auch unterschiedlich stark ausgeprägt sind. Trotzdem kann eine Analyse der Persönlichkeiten und die Berücksichtung der Motivationsfaktoren, Stärken und Schwächen dazu beitragen, ein funktionierendes Team aufzubauen.
 
 \bibliographystyle{asmems4}
 

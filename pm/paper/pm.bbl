@@ -11,6 +11,11 @@ Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler,
 Bernd~Hindel, Klaus~Hörmann, M. M. J.~S., 2009.
 \newblock {\em Basiswissen Softwareprojektmanagement}.
 
+\bibitem{scrum}
+What is scrum?
+\newblock \url{https://www.atlassian.com/agile/scrum}.
+\newblock Zugegriffen: 21.01.2021.
+
 \bibitem{kanban}
 What is kanban?
 \newblock \url{https://www.atlassian.com/agile/kanban}.
@@ -24,9 +29,7 @@ Agiles projektmanagement in der data science.
 
 \bibitem{stacey_img}
 Stacey-matrix im projektmanagement.
-\newblock
-  \url{https://www.kayenta.de/training-seminar/artikel/stacey-matrix-die-richtige
-  -projektmanagement-methode-finden.html}.
+\newblock \url{https://cutt.ly/AjF558g}.
 \newblock Zugegriffen: 11.01.2021.
 
 \bibitem{Stacey2011StrategicMA}
@@ -37,11 +40,6 @@ Stacey, R., 2011.
 \bibitem{disc}
 Marston, M., 1928.
 \newblock {\em Emotions of normal people}.
-
-\bibitem{disg_charakteristika}
-Das disg-modell (basis für einen persönlichkeitstest) *).
-\newblock \url{https://www.mensch-und-psyche.de/typenmodelle/das-disg-modell/}.
-\newblock Zugegriffen: 10.01.2021.
 
 \bibitem{disc_pm}
 Rick A.~Morris, B. M.~S., 2008.

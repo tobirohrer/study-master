@@ -6,16 +6,16 @@ Database file #1: pm.bib
 Too many commas in name 1 of "Bernd Hindel, Klaus Hörmann, Markus Müller, Jürgen Schmied" for entry Wasserfall
 while executing---line 1268 of file asmems4.bst
 Warning--empty publisher in Wasserfall
+Warning--empty year in scrum
 Warning--empty year in kanban
 Warning--empty year in agile_pm
 Warning--empty year in stacey_img
 Warning--empty booktitle in Stacey2011StrategicMA
 Warning--empty publisher in disc
-Warning--empty year in disg_charakteristika
 Warning--empty publisher in disc_pm
 You've used 9 entries,
             1984 wiz_defined-function locations,
-            521 strings with 4782 characters,
+            521 strings with 4608 characters,
 and the built_in function-call counts, 1451 in all, are:
 = -- 83
 > -- 72
