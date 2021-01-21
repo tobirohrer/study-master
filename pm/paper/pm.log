@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  19 JAN 2021 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.22)  21 JAN 2021 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,7 +793,7 @@ Underfull \hbox (badness 1454) in paragraph at lines 87--88
 
 
 ]
-<./images/stacey.png, id=124, 348.30125pt x 292.09125pt>
+<./images/stacey.png, id=132, 348.30125pt x 292.09125pt>
 File: ./images/stacey.png Graphic file (type png)
 <use ./images/stacey.png>
 Package pdftex.def Info: ./images/stacey.png  used on input line 95.
@@ -814,104 +814,71 @@ Underfull \hbox (badness 1092) in paragraph at lines 108--109
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 111--112
-\OT1/ptm/m/n/10 i-nante bei der Bew[]altigung seiner Auf-gaben gerne den
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 114--115
-\OT1/ptm/m/n/10 ungeduldige Eigen-schaft kann sich sogar pos-i-tiv da-rauf
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-[]\OT1/ptm/m/n/10 Das Prinzip, Pro-jekte um mo-tivierte Per-so-nen
+Underfull \hbox (badness 1038) in paragraph at lines 111--112
+\OT1/ptm/m/n/10 St[]arke ist die zielo-ri-en-tierte Ar-beitsweise. Eine seiner
  []
 
 [2 <./images/stacey.png>]
-Underfull \hbox (badness 1824) in paragraph at lines 125--126
-[]\OT1/ptm/m/n/10 Bei einer Or-gan-i-sa-tion nach dem Wasser-fallmod-ell
+Underfull \hbox (badness 1348) in paragraph at lines 118--119
+\OT1/ptm/m/n/10 auswirken. Der Schw[]ache, sich zu viel vorzunehmen
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 132--133
-[]\OT1/ptm/m/n/10 Das Prinzip, dass Pro-jekt um mo-tivierte Per-so-nen
+Underfull \hbox (badness 2865) in paragraph at lines 121--122
+\OT1/ptm/m/n/10 tes sowie einer fes-ten Pro-jek-t-struk-tur, wird zwar der
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 136--137
- []\OT1/ptm/b/n/10 Scrum[] \OT1/ptm/m/n/10 Sprints k[]onnten der Ini-tia-tiven 
-bei einer
+Underfull \hbox (badness 2671) in paragraph at lines 130--131
+\OT1/ptm/m/n/10 diese zu un-terst[]utzen ist eines der Ag-ilen Prinzip-ien.
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 146--147
+Underfull \hbox (badness 1303) in paragraph at lines 132--133
+ []\OT1/ptm/b/n/10 Kanban[] \OT1/ptm/m/n/10 Durch den kon-tinuier-lichen und fl
+ex-i-blen
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 134--135
+ []\OT1/ptm/b/n/10 Scrum[] \OT1/ptm/m/n/10 Durch die fest einge-planten Scrum E
+vents
+ []
+
+
+Underfull \vbox (badness 5832) has occurred while \output is active []
+
+ [3]
+Underfull \hbox (badness 4967) in paragraph at lines 144--145
 []\OT1/ptm/m/n/10 Der Stetige wird unter An-derem durch die un-
  []
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
- []\OT1/ptm/b/n/10 Kanban[] \OT1/ptm/m/n/10 hat das Ziel ange-fan-gene Auf-gabe
-n
+
+Underfull \hbox (badness 1454) in paragraph at lines 149--150
+ []\OT1/ptm/b/n/10 Kanban[] \OT1/ptm/m/n/10 Ange-fan-gene Auf-gaben m[]oglichst
+ schnell
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--155
-\OT1/ptm/m/n/10 Durch Un-terst[]utzende T[]atigkeiten k[]onnen Auf-gaben
+Underfull \vbox (badness 1314) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 157--158
+[]\OT1/ptm/m/n/10 Im Gegen-satz zum Dom-i-nan-ten und zur Ini-tia-tiven
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 154--155
-\OT1/ptm/m/n/10 sich de-mo-tivierend auswirken. Durch die Ver-wen-dung
+Underfull \hbox (badness 1082) in paragraph at lines 157--158
+\OT1/ptm/m/n/10 w[]urde sich der Stetige auch im Wasser-fallmod-ell wohl
  []
 
-
-Underfull \hbox (badness 1173) in paragraph at lines 156--157
-\OT1/ptm/m/n/10 Steti-gen durch die Def-i-ni-tion fes-ter Rollen und Sprint-
- []
-
-
-Underfull \hbox (badness 1168) in paragraph at lines 156--157
-\OT1/ptm/m/n/10 Inkremente (Keine []Anderungen der Auf-gaben in-ner-halb
- []
-
-
-Underfull \hbox (badness 4242) in paragraph at lines 162--163
-\OT1/ptm/m/n/10 ho-hen Qualit[]atsstandard, der ihrem per-fek-tion-is-tis-chen
- []
-
-
-Underfull \hbox (badness 1297) in paragraph at lines 162--163
-\OT1/ptm/m/n/10 Hang ent-ge-gen kommt, mo-tivieren. Bei einem ho-hen
- []
-
-
-Underfull \hbox (badness 1107) in paragraph at lines 162--163
-\OT1/ptm/m/n/10 Qualit[]atsstandard k[]onnen Fehler aus-geschlossen wer-den,
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 162--163
-\OT1/ptm/m/n/10 weiter mo-tivierend auswirkt. Zu den gr[]o^^Yten St[]arken
- []
-
-
-Underfull \hbox (badness 3058) in paragraph at lines 162--163
-\OT1/ptm/m/n/10 die Gr[]undlichkeit bei der Bear-beitung von Auf-gaben.
- []
-
-
-Underfull \hbox (badness 1264) in paragraph at lines 162--163
-\OT1/ptm/m/n/10 gerne und bringt Verbesserungsvorschl[]age ein. Ist ihr
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 173--174
+[4]
+Underfull \hbox (badness 1616) in paragraph at lines 170--171
 \OT1/ptm/m/n/10 Es kann sich de-mo-tivierend auswirken, wenn wichtige
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 177--178
+Underfull \hbox (badness 1990) in paragraph at lines 174--175
 []\OT1/ptm/m/n/10 Bei einem Team also mit []uberwiegend X und X
  []
 
@@ -951,33 +918,31 @@ Overfull \hbox (138.27783pt too wide) in paragraph at lines 26--31
 []finden .
  []
 
-[4]
+
 Underfull \hbox (badness 1297) in paragraph at lines 42--45
 \OT1/ptm/m/n/10 *).  []$\OT1/pcr/m/n/10 https : / / www . mensch-[]und-[]psyche
  . de /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 193.
- [5
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 193.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
  (./pm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 193.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 193.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
 Package rerunfilecheck Info: File `pm.out' has not changed.
-(rerunfilecheck)             Checksum: 6C362F7875E014EF5B0424FFB77FC188;1590.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 193.
+(rerunfilecheck)             Checksum: ED18F7957FD36D9F9BA002F7FA3878AD;1720.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 190.
  ) 
 Here is how much of TeX's memory you used:
- 20610 strings out of 492616
- 385421 string characters out of 6129480
- 432115 words of memory out of 5000000
- 24338 multiletter control sequences out of 15000+600000
+ 20613 strings out of 492616
+ 385490 string characters out of 6129480
+ 431115 words of memory out of 5000000
+ 24340 multiletter control sequences out of 15000+600000
  568325 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,11n,63p,1271b,811s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,11n,63p,1271b,719s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 019/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2019/tex
@@ -985,10 +950,10 @@ mf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2019/texmf-dist
 /fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/typ
 e1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on pm.pdf (5 pages, 106044 bytes).
+Output written on pm.pdf (5 pages, 108328 bytes).
 PDF statistics:
- 216 PDF objects out of 1000 (max. 8388607)
- 198 compressed objects within 2 object streams
- 53 named destinations out of 1000 (max. 500000)
- 198 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 PDF objects out of 1000 (max. 8388607)
+ 206 compressed objects within 3 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 214 words of extra memory for PDF output out of 10000 (max. 10000000)
 
